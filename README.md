@@ -5,13 +5,11 @@ A list of LeetCode questions with the corresponding companies sorted by difficul
 | **ID** | **Name** | **Difficulty.Level** | **Companies** |
 | --- | --- | --- | --- |
 
-
-
 | 717 | 1-bit and 2-bit Characters |  Easy | Google | <br>
 | 67 | Add Binary |  Easy | Adobe, Amazon, Facebook, Google, Microsoft | <br>
 | 258 | Add Digits |  Easy | Adobe, Apple | <br>
-| 415 | Add Strings |  Easy | Apple, Facebook, Google, Microsoft | <br>
-| 637 | Average of Levels in Binary Tree |  Easy | Amazon, Facebook | <br>  
+| 415 | Add Strings |  Easy | Apple, Facebook, Google, Microsoft | <br>404 
+| 637 | Average of Levels in Binary Tree |  Easy | Amazon, Facebook | <br>
 | 844 | Backspace String Compare |  Easy | Google | <br>
 | 110 | Balanced Binary Tree |  Easy | Amazon, Google | <br>
 | 682 | Baseball Game |  Easy | Amazon | <br>
@@ -171,7 +169,7 @@ A list of LeetCode questions with the corresponding companies sorted by difficul
 | 443 | String Compression |  Easy | Amazon | <br>
 | 246 | Strobogrammatic Number |  Easy | Facebook, Google | <br>
 | 811 | Subdomain Visit Count |  Easy | Google | <br>
-| 404 | Sum of Left Leaves |  Easy | Amazon | <br> <br>
+| 404 | Sum of Left Leaves |  Easy | Amazon | <br>
 | 1022 | Sum of Root To Leaf Binary Numbers |  Easy | Amazon | <br>
 | 371 | Sum of Two Integers |  Easy | Facebook, Microsoft | <br>
 | 101 | Symmetric Tree |  Easy | Amazon, Apple, Facebook, Google, Microsoft | <br>
@@ -197,6 +195,10 @@ A list of LeetCode questions with the corresponding companies sorted by difficul
 | 290 | Word Pattern |  Easy | Google, Microsoft | <br>
 | 914 | X of a Kind in a Deck of Cards |  Easy | Google | <br>
 
+
+<br>
+<br>
+<br>
 
 
 | 542 | 01 Matrix |  Medium | Google | <br>
@@ -363,7 +365,7 @@ A list of LeetCode questions with the corresponding companies sorted by difficul
 | 386 | Lexicographical Numbers |  Medium | Google | <br>
 | 817 | Linked List Components |  Medium | Google | <br>
 | 142 | Linked List Cycle II |  Medium | Apple, Google, Microsoft | <br>
-| 382 | Linked List Random Node |  Medium | Apple, Facebook | <br> <br>
+| 382 | Linked List Random Node |  Medium | Apple, Facebook | <br>
 | 388 | Longest Absolute File Path |  Medium | Google | <br>
 | 300 | Longest Increasing Subsequence |  Medium | Adobe, Airbnb, Amazon, Apple, Facebook, Google, Microsoft | <br>
 | 562 | Longest Line of Consecutive One in Matrix |  Medium | Google | <br>
@@ -479,7 +481,7 @@ A list of LeetCode questions with the corresponding companies sorted by difficul
 | 900 | RLE Iterator |  Medium | Amazon, Google | <br>
 | 61 | Rotate List |  Medium | Amazon, Microsoft | <br>
 | 74 | Search a 2D Matrix |  Medium | Amazon, Facebook, Google, Microsoft | <br>
-| 240 | Search a 2D Matrix II |  Medium | Amazon, Facebook, Google, Microsoft | <br> <br>
+| 240 | Search a 2D Matrix II |  Medium | Amazon, Facebook, Google, Microsoft | <br>
 | 702 | Search in a Sorted Array of Unknown Size |  Medium | Google | <br>
 | 33 | Search in Rotated Sorted Array |  Medium | Alibaba, Amazon, Apple, Facebook, Google, Microsoft | <br>
 | 81 | Search in Rotated Sorted Array II |  Medium | Google | <br>
@@ -554,6 +556,9 @@ A list of LeetCode questions with the corresponding companies sorted by difficul
 | 281 | Zigzag Iterator |  Medium | Google | <br>
 | 48 | Rotate Image |  Medium | Facebook | <br>
 
+<br>
+<br>
+<br>
 
 
 | 679 | 24 Game |  Hard | Google, Microsoft | <br>
@@ -643,7 +648,7 @@ A list of LeetCode questions with the corresponding companies sorted by difficul
 | 233 | Number of Digit One |  Hard | Amazon | <br>
 | 711 | Number of Distinct Islands II |  Hard | Amazon | <br>
 | 305 | Number of Islands II |  Hard | Amazon, Google | <br>
-| 920 | Number of Music Playlists |  Hard | Google | <br>           
+| 920 | Number of Mucic Playlists |  Hard | Google | <br>
 | 975 | Odd Even Jump |  Hard | Google | <br>
 | 465 | Optimal Account Balancing |  Hard | Google | <br>
 | 132 | Palindrome Partitioning II |  Hard | Google | <br>
