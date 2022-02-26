@@ -8,7 +8,7 @@ A list of LeetCode questions with the corresponding companies sorted by difficul
 | 717 | 1-bit and 2-bit Characters |  Easy | Google | <br>
 | 67 | Add Binary |  Easy | Adobe, Amazon, Facebook, Google, Microsoft | <br>
 | 258 | Add Digits |  Easy | Adobe, Apple | <br>
-| 415 | Add Strings |  Easy | Apple, Facebook, Google, Microsoft | <br>404 
+| 415 | Add Strings |  Easy | Apple, Facebook, Google, Microsoft | <br> 
 | 637 | Average of Levels in Binary Tree |  Easy | Amazon, Facebook | <br>
 | 844 | Backspace String Compare |  Easy | Google | <br>
 | 110 | Balanced Binary Tree |  Easy | Amazon, Google | <br>
